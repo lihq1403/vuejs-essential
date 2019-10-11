@@ -56,7 +56,7 @@
           }
         },
         beforeCreate() {
-          this.uploadsUrl = 'https://vuejscaffcdn.phphub.org/uploads/'
+          this.uploadsUrl = 'https://vuejscaff.com/uploads/'
         },
         methods: {
           changeNavIndex(index) {

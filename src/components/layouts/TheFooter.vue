@@ -99,12 +99,12 @@
           title: '赞助商',
           list: [
             {
-              logo: 'https://cdn.learnku.com/uploads/banners/bQawWl3vT5dc2lYx5JZ7.png!/fw/100',
+              logo: 'https://vuejscaff.com/uploads/banners/QvnSpO465AURF6pZq6ih.png',
               title: '本站服务器由 UCloud 赞助',
               link: 'http://www.ucloud.cn/?utm_source=zanzhu&utm_campaign=phphub&utm_medium=display&utm_content=yejiao&ytag=phphubyejiao'
             },
             {
-              logo: 'https://cdn.learnku.com/uploads/banners/yGLIR0idW7zsInjsNmzr.png',
+              logo: 'https://vuejscaff.com/uploads/banners/wy95SLib7NIZVr5A087v.png',
               title: '本站 CDN 服务由七牛赞助',
               link: 'http://www.qiniu.com/?utm_source=phphub'
             },
@@ -114,7 +114,7 @@
               link: 'https://www.upyun.com/'
             },
             {
-              logo: 'https://cdn.learnku.com/uploads/banners/JpTCK6OKYBIrBIWdtob8.png!/fw/100',
+              logo: 'https://vuejscaff.com/uploads/banners/1kGIjkNKRKS5pDfR1NwP.png',
               title: '订阅邮件赞助商：SendCloud',
               link: 'http://www.sendcloud.net/'
             }
